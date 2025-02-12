@@ -1,0 +1,2 @@
+-par vendeur montrer dans un schema par
+ des trous les endroits bloqués
