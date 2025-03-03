@@ -1,0 +1,12 @@
+- Le nombre de fois qu'un vendeur a changé son prix sur une période
+/ le nombre d'observations de cette période
+- Algorithmic sellers’ prices correlate with other benchmarks (e.g. lowest 
+price, second lowest price, Bol.com’s price, any competitor’s price): 
+we can define a seller as algorithmic if its prices show a sufficiently 
+strong correlation with one or more of such benchmarks.
+
+- 
+
+-d'après l'article si on détecte par l'une des méthodes citées précédemment
+qu'un algo est appliqué au prix d'un produit, si le vendeur du produit a
+ de nombreux produits, on en conclut qu'il utilise un algo pour tous ses produits
