@@ -1,0 +1,12 @@
+Traitement données
+
+
+- Récupération des données des sellers directement sur le site Leclerc
+- Création d'un ID unique pour chaque couple product-seller
+- création de la variable shipping, qui calcule le nombre de jours 'supposés'
+ entre la commande et la livraison en prenant le jour max si il y a un intervalle 
+ de dates "entre le ___ et le ___"
+ - dummies de l'Etat du produit en prenant NEUF comme valeur de référence car c'est 
+ la plus répandue 
+ - Les données rating et nb de rating etant indisponibles pour Leclerc, 
+ nous lui assimilons la moyenne de toutes les autres variables. 
