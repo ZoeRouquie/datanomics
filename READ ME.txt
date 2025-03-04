@@ -10,3 +10,7 @@ Traitement données
  la plus répandue 
  - Les données rating et nb de rating etant indisponibles pour Leclerc, 
  nous lui assimilons la moyenne de toutes les autres variables. 
+- Suppression des produits qui n'etaient pas disponibles
+de façon stable au moins 3 jours d'affilée.
+
+
