@@ -12,5 +12,7 @@ Traitement données
  nous lui assimilons la moyenne de toutes les autres variables. 
 - Suppression des produits qui n'etaient pas disponibles
 de façon stable au moins 3 jours d'affilée.
-
+- Une prix est considéré comme changé s'il est différent de sa dernière valeur,
+et que cette dernière valeur date d'il y a moins de 24h (= il faut que le produit 
+ait été présent il y a moins de 24h).
 
