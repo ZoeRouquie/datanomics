@@ -1,5 +1,8 @@
-Traitement données
+1) Traitement des données
 
+**Scripts** 
+Formatage/1_formatage_data_leclerc.ipynb
+Formatage/2_traiter_data.ipynb
 
 - Récupération des données des sellers directement sur le site Leclerc
 - Création d'un ID unique pour chaque couple product-seller
@@ -16,3 +19,15 @@ de façon stable au moins 3 jours d'affilée.
 et que cette dernière valeur date d'il y a moins de 24h (= il faut que le produit 
 ait été présent il y a moins de 24h).
 
+2) Visualisation
+- script + powerBI
+
+
+3) Détection algorithmique
+- Avec le critère 1SD et 2SD
+- Avec le critère de corrélation de Spearman
+- Avec la fréquence des changements
+- Avec un nombre de changement au moins égal à 20
+
+
+4) Régression
